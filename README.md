@@ -2,7 +2,7 @@
 
 ### v1.0
  * added custom dungeons and raids
-
+ * all AQs are in the Ruins of Ahn'Qiraj tab
 
 Some pictures showing what vQueue does:
 
