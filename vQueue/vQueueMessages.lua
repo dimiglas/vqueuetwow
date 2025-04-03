@@ -292,6 +292,7 @@ CATARGS["cot"] = {
 	"black morass",
 	"blackmorass",
 	"caverns of time",
+	"bm",
 	"cot"
 }
 CATARGS["sv"] = {
